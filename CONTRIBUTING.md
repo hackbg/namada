@@ -18,13 +18,13 @@ With every PR, please make a separate commit that adds a record in the `.changel
 
 The section should either be one of the following choices:
 
-- `CI`
+- `ci`
 - `bug-fixes`
-- `docs`
-- `features`
 - `improvements`
+- `miscellaneous`
+- `features`
 - `testing`
-- `SDK`
+- `docs`
 
 To add a change log entry using `unclog`, you can fill in the following command (prefer to use the issue number, for which the `--pull-request` argument may be omitted):
 
